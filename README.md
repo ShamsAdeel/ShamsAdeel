@@ -1,5 +1,4 @@
-# Salvete!
-## I go by the name *Sir Adeel of Shams*. 
+# Salvete! 
 ### Sydney's quite milquetoast, so I do find the transition daunting. 
 
 Here are some ideas to get you started:
