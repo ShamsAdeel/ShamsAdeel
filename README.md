@@ -1,8 +1,6 @@
 # Salvete! 
 ### Sydney's quite milquetoast, so I do find the transition daunting. 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on StoryScape, a human-computer interaction device that facilitates interactive, collaborative storytelling through NLP APIs. 
 - 🌱 I’m currently learning non-NMF algorithms, which are quite tedious.
 - 👯 I’m looking to collaborate on embedded system projects.
